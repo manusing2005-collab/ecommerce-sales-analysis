@@ -66,7 +66,6 @@ The dataset contains 500 e-commerce orders with the following information:
 ### Monthly Revenue
 
 ![Monthly Revenue](monthly_revenue.png)
-
 ## 🚀 Project Structure
 
 ```text
