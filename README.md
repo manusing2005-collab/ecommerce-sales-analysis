@@ -53,19 +53,19 @@ The dataset contains 500 e-commerce orders with the following information:
 
 ### Revenue by Product
 
-![Revenue by Product](charts/revenue_by_product.png)
+![Revenue by Product](revenue_by_product.png)
 
 ### Revenue by City
 
-![Revenue by City](charts/revenue_by_city.png)
+![Revenue by City](revenue_by_city.png)
 
 ### Revenue by Category
 
-![Revenue by Category](charts/revenue_by_category.png)
+![Revenue by Category](revenue_by_category.png)
 
 ### Monthly Revenue
 
-![Monthly Revenue](charts/monthly_revenue.png)
+![Monthly Revenue](monthly_revenue.png)
 
 ## 🚀 Project Structure
 
